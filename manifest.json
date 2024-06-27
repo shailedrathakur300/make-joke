@@ -1,0 +1,12 @@
+{
+    "name":"jokes-maker",
+    "version":"1.0.0",
+    "manifest_version":"3",
+    "broswer_action":{
+        "default_popup":"popup.html",
+        "default_icon":"logo.png"
+    },
+    "icon":{
+        "128":"logo.png"
+    }
+}
